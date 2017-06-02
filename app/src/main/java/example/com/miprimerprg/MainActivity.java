@@ -15,4 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    protected void imprimeHolaMundo {
+        System.out.println("hola mundo");
+    }
 }
